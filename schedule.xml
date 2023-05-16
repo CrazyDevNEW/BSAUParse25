@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule>
+    <BI-101>
+        <Friday>
+            <Pair num="1" audience="" teacher=""></Pair>
+            <Pair num="2" audience="377/7" teacher="доц. Арбуванова Ф.Ф.">Дискретная математика и математическая логика (24-31)</Pair>
+            <Pair num="3" audience="213/1" teacher="доц. Валиева А.Р.">История (История России, Всеобщая история) (23-37)</Pair>
+        </Friday>
+    </BI-101>
+</schedule>
