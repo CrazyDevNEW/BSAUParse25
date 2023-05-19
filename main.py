@@ -7,7 +7,6 @@ def element_to_dict(element):
     result = {'name': element.tag, 'attributes': {}}
 
     for name, value in element.attrib.items():
-        print(name, value)
         result['attributes'][name] = value
 
     # Дочерние элементы
